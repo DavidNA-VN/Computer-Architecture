@@ -5,4 +5,4 @@
 
 # Getting started
 Use rars software to program, connect peripherals such as keypad, 7-segment LED
-
+![alt text](pic1.png)
